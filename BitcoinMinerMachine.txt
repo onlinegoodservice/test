@@ -1,0 +1,21 @@
+Welcome to Bitcoin Miner Machine.
+
+Bitcoin Miner Machineis a graphical frontend for mining Bitcoin, providing a convenient way to operate Bitcoin miners from a graphical interface. 
+It supports both AMD and NVIDIA GPUs, as well as CPU mining. You can choose between pooled mining and solo mining – the software embeds a list of mining pools to choose from.
+
+Bitcoin Miner Machine is the premier Bitcoin Mining tool for Windows and is one of the easiest ways to start mining Bitcoins.
+By offering a simple and easy to use graphical interface, Bitcoin Miner Machine will let you take full control of your Bitcoin mining process without requiring complicated commands or constantly editing configuration files. 
+
+Bitcoin Miner Machine is the perfect Windows mining software for beginners and experts alike, offering a ton of useful features that will help anyone get the greatest amount of Bitcoins with the lowest amount of fuss.
+
+Bitcoin Miner Machine supports the most popular Bitcoin Mining software, including OpenCL Miner for AMD graphics cards, CUDA Miner for Nvidia cards, Bitcoin Miner Machine for any ASIC Miner, and even Ufasoft Miner so you can mine Bitcoins with your CPU! 
+
+Not only does Bitcoin Miner Machine support all of these different Bitcoin miners, it also supports using multiple miners at the same time! With Bitcoin Miner Machine you can maximize your Bitcoin Mining profits all in one simple place! After your miners are configured, you can even setup "Autostart mining" 
+that will let you start mining for Bitcoins as soon as the program opens!
+
+To use Bitcoin Miner Machine download the latest version from the link above, open it and extract the archive to anywhere on your PC (we recommend your Desktop so you can easily access it), then double click the Bitcoin Miner Machine executable to open the interface. 
+
+Once Bitcoin Miner Machine is up and running, simply choose a mining pool (we recommend using Slush's pool, to receive the most Bitcoins), setup your login details and hit "Start Mining!" to begin earning those sweet Bitcoins!
+
+license key:
+TEM8S2-2ET83-CGKP1-DPSI2-EPZO1
